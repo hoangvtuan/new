@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #10a975;
+	margin-bottom: -8px;
+}
+.content form{
+	border:1px solid #dcdcdc;
+	border-radius: 5px;
+}
+.header h1{
+	color: #474747;
+}
+.footer {
+	background-color: #9e9e9e;
+}
+
